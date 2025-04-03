@@ -53,7 +53,8 @@ const Header = () => {
            <i class="uil uil-times nav__close"></i>
         </div>
 
-        <div className="nav__toggle">
+        <div className="nav__toggle" onClick={() => showMenu
+          (!Toggle)}>
         <i class="uil uil-apps"></i>
         </div>
       </nav>
