@@ -182,31 +182,24 @@
     }
     /* ============== BREAKPOINTS ========= */
     /* For Large Screens */
-    @media screen and (min-width: 1200px) {
-      :root {
-        --font-size: 1.125rem;
-      }
-    }
+    
 
-    /* For Medium Screens */
+    /* For Large Screens */
     @media screen and (max-width: 992px) {
-      :root {
-        --font-size: 1rem;
+      .container {
+        margin-left: var(--mb-1-5);
+        margin-right: var(--mb-1-5);
       }
     }
 
-    /* For Small Screens */
+    /* For medium Screens */
     @media screen and (max-width: 768px) {
-      :root {
-        --font-size: 0.875rem;
-      }
+      
     }
 
     /* For Extra Small Screens */
     @media screen and (max-width: 576px) {
-      :root {
-        --font-size: 0.75rem;
-      }
+      
     }
 
     /* ============= HEADER ============= */
