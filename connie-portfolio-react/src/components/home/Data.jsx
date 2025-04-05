@@ -27,29 +27,36 @@ const Data = () => {
         </svg>        
         </h1>
         <h3 className="home__subtitle">Web Developer</h3>
-        <p className="home___description">Hi, I'm Constance Khalumba, a passionate web developer creating innovative and user-friendly digital experiences.</p>
+        <p className="home___description">Hi, I'm Constance Khalumba, a passionate web developer <br /> creating innovative and user-friendly digital experiences.</p>
 
-        <a href="#contact" className="button button--flex"></a>
+        <a href="#contact" className="button button--flex">
         Say Hello
         <svg
          width="36"
          height="36"
-         viewBox="0 0 48 48"
+         viewBox="0 0 24 24"
          fill="none"
          xmlns="http://www.w3.org/2000/svg"
-         className="home__hand"
+         className="icon__send"
         >
-        <path
-        d="M 14.2199 21.9352 C 13.0399 21.9352 11.3699 21.1052 10.0499 17.1352 L 9.32988 14.9752 L 7.16988 14.2552 C 3.20988 12.9352 2.37988 11.2652 2.37988 10.0852 C 2.37988 8.91525 3.20988 7.23525 7.16988 5.90525 L 15.6599 3.07525 C 17.7799 2.36525 19.5499 2.57525 20.6399 3.65525 C 21.7299 4.73525 21.9399 6.51525 21.2299 8.63525 L 18.3999 17.1252 C 17.0699 21.1052 15.3999 21.9352 14.2199 21.9352 Z M 7.63988 7.33525 C 4.85988 8.26525 3.86988 9.36525 3.86988 10.0852 C 3.86988 10.8052 4.85988 11.9052 7.63988 12.8252 L 10.1599 13.6652 C 10.3799 13.7352 10.5599 13.9152 10.6299 14.1352 L 11.4699 16.6552 C 12.3899 19.4352 13.4999 20.4252 14.2199 20.4252 C 14.9399 20.4252 16.0399 19.4352 16.9699 16.6552 L 19.7999 8.16525 C 20.3099 6.62525 20.2199 5.36525 19.5699 4.71525 C 18.9199 4.06525 17.6599 3.98525 16.1299 4.49525 L 7.63988 7.33525 Z"
-    fill="#0000"
-    />
-     <path
-     d="M 10.11 14.7052 C 9.92005 14.7052 9.73005 14.6352 9.58005 14.4852 C 9.29005 14.1952 9.29005 13.7152 9.58005 13.4252 L 13.16 9.83518 C 13.45 9.54518 13.93 9.54518 14.22 9.83518 C 14.51 10.1252 14.51 10.6052 14.22 10.8952 L 10.64 14.4852 C 10.5 14.6352 10.3 14.7052 10.11 14.7052 Z"
-    fill="#0000"
-    />
-        </svg>
+       <path
+          d="M22 2L11 13"
+          stroke="currentColor"
+          stroke-width="2"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+       />
+       <path
+         d="M22 2L15 22L11 13L2 9L22 2Z"
+         stroke="currentColor"
+         stroke-width="2"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+       />
+     </svg>
+     </a>
         
-     </div>
+    </div>
   )
 }
 
