@@ -103,3 +103,9 @@
    }
 }
     
+.home__scroll-name {
+    color: var(--title-color);
+    font-weight: var(--font-medium);
+    margin-right: var(--mb-0-25);
+    margin: 2px;
+}
