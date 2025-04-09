@@ -145,6 +145,7 @@
     .home__img {
         width: 250px;
         height: 250px;
+        box-shadow: inset 0 0 0 9px rgba(255, 255, 255 / 30%);
         
     }
 
@@ -170,18 +171,27 @@
     }
 
     .home__img {
-        box-shadow: inset 0 0 0 9px rgba(255, 255, 255 / 30%);
+        box-shadow: inset 0 0 0 6px rgba(255, 255, 255 / 30%);
         width: 200px;
         height: 200px;
     }
+    .home__scroll {
+        display: none;
+    }
   }
   
-  @media screen and (max-width: 576px) {
-  }
   
   /* For small devices */
   @media screen and (max-width: 350px) {
-    
+       .home__img {
+        width: 180px;
+        height: 180px;
+       }
+
+       .home__hand {
+        width: 22px;
+        height: 22px;
+       }
     }
   
     
