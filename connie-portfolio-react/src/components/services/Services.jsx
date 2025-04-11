@@ -126,7 +126,7 @@ const Services = () => {
 
             <div className="services__content">
                 <div>
-                    <i className="uil ui-edit services__icon"></i>
+                    <i className="uil uil-edit services__icon"></i>
                     <h3 className="services__title">Visual <br/> Designer
                     </h3>
                 </div>
