@@ -1,5 +1,10 @@
 .home__container {
-    row-gap: 7rem;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  padding: 2rem;
 }
 
 .home__content {
