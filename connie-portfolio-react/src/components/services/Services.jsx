@@ -29,7 +29,7 @@ const Services = () => {
                      </p>
 
                      <ul className="services__modal-services grid">
-                        <li className="servicess__modal-service">
+                        <li className="services__modal-service">
                             <i className="uil uil-check-circle services__modal-icon">             
                            </i>
                            <p className="services__modal-info">
@@ -37,7 +37,7 @@ const Services = () => {
                            </p>
                         </li>
 
-                        <li className="servicess__modal-service">
+                        <li className="services__modal-service">
                             <i className="uil uil-check-circle services__modal-icon">             
                            </i>
                            <p className="services__modal-info">
@@ -45,7 +45,7 @@ const Services = () => {
                            </p>
                         </li>
 
-                        <li className="servicess__modal-service">
+                        <li className="services__modal-service">
                             <i className="uil uil-check-circle services__modal-icon">             
                            </i>
                            <p className="services__modal-info">
@@ -54,7 +54,7 @@ const Services = () => {
                         </li>
 
 
-                        <li className="servicess__modal-service">
+                        <li className="services__modal-service">
                             <i className="uil uil-check-circle services__modal-icon">             
                            </i>
                            <p className="services__modal-info">
@@ -87,7 +87,7 @@ const Services = () => {
                      </p>
 
                      <ul className="services__modal-services grid">
-                        <li className="servicess__modal-service">
+                        <li className="services__modal-service">
                             <i className="uil uil-check-circle services__modal-icon">             
                            </i>
                            <p className="services__modal-info">
@@ -95,7 +95,7 @@ const Services = () => {
                            </p>
                         </li>
 
-                        <li className="servicess__modal-service">
+                        <li className="services__modal-service">
                             <i className="uil uil-check-circle services__modal-icon">             
                            </i>
                            <p className="services__modal-info">
@@ -103,7 +103,7 @@ const Services = () => {
                            </p>
                         </li>
 
-                        <li className="servicess__modal-service">
+                        <li className="services__modal-service">
                             <i className="uil uil-check-circle services__modal-icon">             
                            </i>
                            <p className="services__modal-info">
@@ -145,8 +145,8 @@ const Services = () => {
                      Providing quality work to clients and companies.
                      </p>
 
-                     <ul className="services__modal-services grid">
-                        <li className="servicess__modal-service">
+                     <ul className=".services__modal-services grid">
+                        <li className="services__modal-service">
                             <i className="uil uil-check-circle services__modal-icon">             
                            </i>
                            <p className="services__modal-info">
@@ -154,7 +154,7 @@ const Services = () => {
                            </p>
                         </li>
 
-                        <li className="servicess__modal-service">
+                        <li className="services__modal-service">
                             <i className="uil uil-check-circle services__modal-icon">             
                            </i>
                            <p className="services__modal-info">
@@ -162,7 +162,7 @@ const Services = () => {
                            </p>
                         </li>
 
-                        <li className="servicess__modal-service">
+                        <li className="services__modal-service">
                             <i className="uil uil-check-circle services__modal-icon">             
                            </i>
                            <p className="services__modal-info">
@@ -171,7 +171,7 @@ const Services = () => {
                         </li>
 
 
-                        <li className="servicess__modal-service">
+                        <li className="services__modal-service">
                             <i className="uil uil-check-circle services__modal-icon">             
                            </i>
                            <p className="services__modal-info">
