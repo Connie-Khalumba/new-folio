@@ -20,7 +20,7 @@ const Services = () => {
                 <div className="services__modal">
                    <div className="services__modal-content">
                      <i className="uil uil-times 
-                     services__modal"></i>
+                     services__modal-close"></i>
 
                      <h3 className="services__modal-title">Product Designer</h3>
                      <p className="services__modal-decrption">
@@ -78,7 +78,7 @@ const Services = () => {
                 <div className="services__modal">
                    <div className="services__modal-content">
                      <i className="uil uil-times 
-                     services__modal"></i>
+                     services__modal-close"></i>
 
                      <h3 className="services__modal-title">Ui/Ux Designer</h3>
                      <p className="services__modal-decrption">
@@ -137,7 +137,7 @@ const Services = () => {
                 <div className="services__modal">
                    <div className="services__modal-content">
                      <i className="uil uil-times 
-                     services__modal"></i>
+                     services__modal-close"></i>
 
                      <h3 className="services__modal-title">Visual Designer</h3>
                      <p className="services__modal-decrption">
