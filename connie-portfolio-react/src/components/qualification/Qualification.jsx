@@ -23,7 +23,8 @@ const Qualification = () => {
         </div>
 
         <div className="qualification__sections">
-            <div className="qualification__content">
+            <div className="qualification__content
+            qualification__content-active">
                 <div className="qualification__data">
                     <div>
                         <h3 className='qualification__title'>Web Development</h3>
@@ -104,12 +105,12 @@ const Qualification = () => {
             <div className="qualification__content">
                 <div className="qualification__data">
                     <div>
-                        <h3 className='qualification__title'>Web Development</h3>
+                        <h3 className='qualification__title'> IT Intern</h3>
                         <span className="qualification__subtitle">
-                        SHIELD Intl Program
+                        Shining Hope for Communities Organisation (SHOFCO)
                         </span>
                         <div className="qualification__calender">
-                            <i className="uil uil-calendar-alt"></i> March 2024 - Present
+                            <i className="uil uil-calendar-alt"></i> February 2020 - June 2020
                         </div>
                     </div>
 
@@ -142,12 +143,12 @@ const Qualification = () => {
 
                 <div className="qualification__data">
                     <div>
-                        <h3 className='qualification__title'>Diploma in Web Development || Digital Litracy Program</h3>
+                        <h3 className='qualification__title'> Web Developer & Co-Founder</h3>
                         <span className="qualification__subtitle">
-                        Nairobits Trust
+                        Redifu
                         </span>
                         <div className="qualification__calender">
-                            <i className="uil uil-calendar-alt"></i> September 2021 - Dec 2023
+                            <i className="uil uil-calendar-alt"></i> March 2025 - Present
                         </div>
                     </div>
 
@@ -155,28 +156,7 @@ const Qualification = () => {
                         <span className="qualification__rounder"></span>
                         <span className="qualification__line"></span>
                     </div>
-                </div>
-
-                <div className="qualification__data">
-                    <div></div>
-
-                    <div>
-                        <span className="qualification__rounder"></span>
-                        <span className="qualification__line"></span>
-                    </div>
-
-                    <div>
-                        <h3 className='qualification__title'>Certificate in Information and Technology</h3>
-                        <span className="qualification__subtitle">
-                        Kabete National Polytechnic
-                        </span>
-                        <div className="qualification__calender">
-                            <i className="uil uil-calendar-alt"></i> May 2019 - Dec 2023
-                        </div>
-                    </div>
-
-                    
-                </div>
+                </div>                
             </div>
         </div>
      </div>
