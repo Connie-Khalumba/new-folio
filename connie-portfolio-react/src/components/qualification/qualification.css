@@ -79,3 +79,28 @@
     background-color: var(--text-color);
     transform: translate(6px, -7px);
 }
+
+/*=============== BREAKPOINTS ===============*/
+/* For large devices */
+@media screen and (max-width: 992px) {
+   .qualification__container {
+       margin-left: auto;
+       margin-right: auto;
+   }
+  }
+  
+  /* For medium devices */
+  @media screen and (max-width: 768px) {
+    .qualification__container {
+        
+    }
+  }
+  
+  @media screen and (max-width: 576px) {
+  }
+  
+  /* For small devices */
+  @media screen and (max-width: 350px) {
+  
+  }
+  
