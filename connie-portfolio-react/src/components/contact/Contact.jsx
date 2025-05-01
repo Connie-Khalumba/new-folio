@@ -67,11 +67,14 @@ const Contact = () => {
                     placeholder="Insert your email"/>
                   </div>
 
-                  <div className="contact__form-div">
+                  <div className="contact__form-div contact__form-area">
                     <label className="contact__form-tag"> Project</label>
-                    <textarea name="project" cols="30" rows="10"
-                    className="contact__form-input" 
-                    placeholder='write your project'></textarea>
+                    <textarea 
+                        name="project" 
+                        cols="30" 
+                        rows="10"
+                        className="contact__form-input" 
+                        placeholder='write your project'></textarea>
                   </div>
 
                   <button href="#contact" className="button button--flex">
