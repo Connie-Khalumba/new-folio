@@ -26,7 +26,7 @@ const Footer = () => {
 
         <div className="footer__social">
            <a href="https://www.instagram.com/connie_khalumba?igsh=NHdvY3U2bWJ6MXhw" className="footer__social-link" >
-              <i class="bx bxl-instagram"></i>
+           <i className="fab fa-instagram"></i>
             </a>
 
            <a href="https://x.com/Connie9915?t=676rio4GeoRfjuBadKIm2w&s=09" className="footer__social-link" >
@@ -37,7 +37,7 @@ const Footer = () => {
            <a href="https://www.linkedin.com/in/constance-khalumba-0b390822a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bvaxi%2Fh%2BzQ1W5YjtkyuAVkw%3D%3D" 
                className="footer__social-link"
            >
-              <i class="bx bxl-linkedin"></i> 
+             <i className="fab fa-linkedin"></i>
            </a>
 
            <span className="footer__copy">
