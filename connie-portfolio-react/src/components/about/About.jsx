@@ -17,7 +17,7 @@ const About = () => {
             <Info />
 
             <p className="about__description">
-              Hi, I'm Constance Khalumba a front end web developer <br/> with a six months experience in various, web
+              Hi, I'm Constance Khalumba a web developer <br/> with a two years experience in various, web and App
               development <br/> projects I'm a developer with a keen eye for well organized <br/> code. I understand my
               clients' requirements and
               to attain <br/> a healthy and the importance of good professional relation <br/> with my clients. My core
