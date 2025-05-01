@@ -37,10 +37,35 @@
 .footer__social-link {
     background-color: var(--title-color);
     color: var(--container-color);
-    font-size: 1.125rem;
-    padding: 0.4rem;
+    font-size: 1.25rem; /* make sure this matches all icon sets */
+    padding: 0.5rem;
     border-radius: 0.5rem;
     display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 2.5rem;
+    width: 2.5rem;
+  }
+  
+  
+  .footer__social-link:hover {
+    background-color: var(--title-color-dark);
 }
 
-.footer__
+.footer__copy {
+    display: block;
+    margin-top: 4.5rem;
+    color: var(--title-color);
+    text-align: center;
+    font-size: var(--smaller-font-size);
+}
+
+/*=============== BREAKPOINTS ===============*/
+/* For large devices */
+@media screen and (max-width: 992px) {
+   .footer__social-link {
+    padding: 0.25rem;
+    border-radius: 0.25rem;
+    font-size: 1rem;
+   }
+  }
