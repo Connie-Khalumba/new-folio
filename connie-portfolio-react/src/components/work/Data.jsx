@@ -49,6 +49,6 @@ export const projectsData = [
         name: 'app',
     },
     {
-        name: 'ecommerce',
+        name: 'design',
     },
   ]
