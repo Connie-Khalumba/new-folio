@@ -14,6 +14,7 @@ import ScrollUp from "./components/scrollup/ScrollUp";
 const App = () => {
     return (
         <>
+        
         <Header/>
 
         <main className="main">
