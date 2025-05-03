@@ -17,7 +17,7 @@ export const projectsData = [
       image: Work1,
       title: "Blackjak Technologies",
       link: 'https://blackjak.co.ke',
-      description: 'An ecommerce website that offers wide range of office products.',
+      // description: 'An ecommerce website that offers wide range of office products.',
       category: "web",
     },
     {
@@ -25,7 +25,7 @@ export const projectsData = [
       image: Work2,
       title: "Tuzuru Africa",
       link: 'https://connie-khalumba.github.io/TuzuruAfrica.github.io/',
-      description: 'A tourist site that enables people know which sites to visit in Africa and learn more about their culture',
+      // description: 'A tourist site that enables people know which sites to visit in Africa and learn more about their culture',
       category: "web",
     },
     {
@@ -33,7 +33,7 @@ export const projectsData = [
       image: Work3,
       title: "Weather App",
       link: 'https://connie-khalumba.github.io/weather-app/',
-      description: 'An app that provides users with real-time weather information and forecasts for a specific location.',
+      // description: 'An app that provides users with real-time weather information and forecasts for a specific location.',
       category: "app",
     },
     {
@@ -41,7 +41,7 @@ export const projectsData = [
       image: Work4,
       title: "Redifu App",
       link: 'https://redifu-hdaraa3vv-conniekhalumbas-projects.vercel.app/',
-      description: 'Redifu is a web application that connects the Kibera community with organizations managing food waste.',
+      // description: 'Redifu is a web application that connects the Kibera community with organizations managing food waste.',
       category: "app",
     },
     {
@@ -49,7 +49,7 @@ export const projectsData = [
       image: Work5,
       title: "Kharl agency",
       link: 'https://connie-khalumba.github.io/kharl-agency/',
-      description: 'A website that helps low incomed Nairobi residents to access good and aaffordable houses for rentals or even buy them',
+      // description: 'A website that helps low incomed Nairobi residents to access good and aaffordable houses for rentals or even buy them',
       category: "web",
     },
     {
@@ -57,7 +57,7 @@ export const projectsData = [
       image: Work6,
       title: "movie site",
       link: 'https://movie-flix-nbxiayte2-conniekhalumbas-projects.vercel.app/',
-      description: 'A website for the most trendy movies and TV shows',
+      // description: 'A website for the most trendy movies and TV shows',
       category: "web",
     },
     {
@@ -65,7 +65,7 @@ export const projectsData = [
       image: Work7,
       title: "Task tracker",
       link: 'https://connies-tracker-app.onrender.com',
-      description: 'A website that is designed to help you manage your tasks efficiently and stay organized.',
+      // description: 'A website that is designed to help you manage your tasks efficiently and stay organized.',
       category: "app",
     },
     {
@@ -73,7 +73,7 @@ export const projectsData = [
       image: Work8,
       title: "Ecommerce",
       link: 'https://shopping-app-ik1h.onrender.com',
-      description: 'A simple ecommerce website to help you shop',
+      // description: 'A simple ecommerce website to help you shop',
       category: "design",
     },
     {
@@ -81,7 +81,7 @@ export const projectsData = [
       image: Work9,
       title: "Calculator",
       link: 'https://conniecalculator-app.netlify.app/',
-      description: 'This simple calculator is designed to make basic arithmetic operations quick and easy',
+      // description: 'This simple calculator is designed to make basic arithmetic operations quick and easy',
       category: "web",
     },
     {
@@ -89,7 +89,7 @@ export const projectsData = [
       image: Work10,
       title: "To do List",
       link: 'https://todo-vxq5.onrender.com',
-      description: 'helps users organize, track, and manage tasks they need to complete.',
+      // description: 'helps users organize, track, and manage tasks they need to complete.',
       category: "design",
     },
   ];

@@ -64,14 +64,17 @@
   }
 }
 
-#tsparticles {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: -1;
+.app.light {
+  background: #ffffff;
+  color: #8881c4;
 }
+
+.app.dark {
+  background: #051035;
+  color: #ffffff;
+}
+
+/* Optional: override specific sections if needed */
 
 
 
@@ -180,6 +183,28 @@ img {
   display: inline-flex;
   align-items: center;
 }
+
+.theme-toggle {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  z-index: 9999; /* Make sure it's above everything */
+  background: transparent;
+  border: 2px solid currentColor;
+  color: inherit;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+/* Optional: Always show the button regardless of screen size */
+@media screen and (max-width: 1200px) {
+  .theme-toggle {
+    display: block;
+  }
+}
+
 
 /*=============== BREAKPOINTS ===============*/
 /* For large devices */
