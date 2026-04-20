@@ -1,6 +1,6 @@
 // portfolio/src/components/header/Header.js
 import React, { useState, useEffect } from 'react';
-import './header.css';
+import './Header.css';
 import { useTheme } from '../../context/ThemeContext';
 
 const Header = () => {
